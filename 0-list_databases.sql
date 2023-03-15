@@ -1,2 +1,2 @@
--- list old database --
+-- list database --
 SHOW DATABASES;
